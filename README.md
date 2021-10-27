@@ -1,4 +1,4 @@
-## Hi, I'm [Marcos Bueno](https://marcosbueno.netlify.app) 👋
+## Hi, I'm Marcos Bueno 👋
 
 I am a student of Computer Engineering, with experience in web development. Passionate about Javascript, ReactJS, NodeJS and the whole ecosystem around these technologies.
 
