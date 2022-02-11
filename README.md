@@ -1,6 +1,8 @@
 ## Hi, I'm Marcos Bueno 👋
 
-I am a student of Computer Engineering, with experience in web development. Passionate about Javascript, ReactJS, NodeJS and the whole ecosystem around these technologies.
+Computer Engineering student and currently Full Stack Developer. Enthusiastic about Javascript, Angular, ReactJS, React Native, NodeJS and the entire ecosystem around these technologies.
+
+I work with a focus on user experience and usability, always thinking about how to bring beautiful, responsive interfaces and always with a focus on the user. 
 
 ### What I'm focusing on 👨‍💻
 
