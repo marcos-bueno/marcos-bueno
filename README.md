@@ -2,13 +2,13 @@
 
 ### **Frontend & Mobile Developer**
 
-Passion-driven developer focused on building modern, high-performance web and mobile products. I leverage **JavaScript/TypeScript**, **Vue 3 / Next.js**, **Angular**, **React**, and **Flutter** to create scalable applications with exceptional user experiences.
+Passion-driven developer focused on building modern, high-performance web and mobile products. I leverage **JavaScript/TypeScript**, **Vue 3 / Next.js**, **Angular**, **React**, **Flutter**, and **React Native** to create scalable applications with exceptional user experiences.
 
 ---
 
 ### 🚀 **About Me**
 - 💡 Passionate about transforming complex problems into simple, efficient, and user-centric solutions.
-- 📱 Building cross-platform mobile apps and performance-driven web platforms.
+- 📱 Building cross-platform mobile apps with Flutter and React Native, alongside performance-driven web platforms.
 - ⚡ Deep diving into modern frontend architecture, state management, and mobile engineering.
 - 📚 Continuously learning and staying ahead of the evolving tech ecosystem.
 
@@ -29,6 +29,7 @@ Passion-driven developer focused on building modern, high-performance web and mo
 
 **Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
