@@ -1,28 +1,36 @@
-## Hi, I'm Marcos Bueno 👋
+# Hi there, I'm Marcos 👋
 
-Computer Engineering student and currently Full Stack Developer. Enthusiastic about Javascript, Angular, ReactJS, React Native, NodeJS and the entire ecosystem around these technologies.
+### **Frontend & Mobile Developer**
 
-I work with a focus on user experience and usability, always thinking about how to bring beautiful, responsive interfaces and always with a focus on the user. 
+Passion-driven developer focused on building modern, high-performance web and mobile products. I leverage **JavaScript/TypeScript**, **Vue 3 / Next.js**, **Angular**, **React**, and **Flutter** to create scalable applications with exceptional user experiences.
 
-### What I'm focusing on 👨‍💻
+---
 
-Currently improving my React skills: NextJS and React Native.
+### 🚀 **About Me**
+- 💡 Passionate about transforming complex problems into simple, efficient, and user-centric solutions.
+- 📱 Building cross-platform mobile apps and performance-driven web platforms.
+- ⚡ Deep diving into modern frontend architecture, state management, and mobile engineering.
+- 📚 Continuously learning and staying ahead of the evolving tech ecosystem.
 
-### Find me elsewhere 🌎
+---
 
-[![LinkedIn](https://camo.githubusercontent.com/cfd139be66d8fbebd1ef796ea0fb32ee5b8152e83b02d4b1fd5f936a89bb6d3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f68617273686b756d61726b68617472692f)](https://www.linkedin.com/in/marcos-bueno)
+### 🛠️ **Tech Stack & Tools**
 
-<!--
-**marcos-bueno/marcos-bueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages & Core**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-Here are some ideas to get you started:
+**Web & Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+📬 **Connect with me:**  
+[LinkedIn](https://linkedin.com/in/marcos-bueno) • [Inventors Company](https://www.inventorscompany.com.br) • [Email](mailto:mabueno@proton.me)
