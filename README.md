@@ -2,23 +2,18 @@
 
 ### **Full Stack Developer | Mobile Developer | AI Enthusiast | Co-Founder at Inventors Company**
 
-I'm a software developer and co-founder of **Inventors Company**, where I've been working for the past 3 years building custom software, digital products, and technology solutions for businesses.
-
-I work across the **web, mobile, and backend ecosystems**, using modern technologies to build scalable, high-performance applications with excellent user experiences. I'm also passionate about **Artificial Intelligence, automation, and product development**.
+I'm a software developer and co-founder at **[Inventors Company](https://www.inventorscompany.com.br)**, where for the past 3 years I've been building custom software, digital products, and scalable technology solutions for businesses across web, mobile, and backend ecosystems.
 
 ---
 
 ### 🚀 **About Me**
 
-* 💼 **Co-Founder at Inventors Company**, building software products and custom solutions for businesses.
-* 💻 Full Stack development across **frontend, backend, and APIs**.
-* 📱 Building cross-platform mobile applications with **Flutter** and **React Native**.
-* 🌐 Developing modern web applications with **React, Next.js, Angular, and Vue 3**.
-* ⚙️ Building backend services and APIs with **Node.js, NestJS, and Python**.
-* 🤖 Exploring and integrating **AI solutions with Python** to create smarter applications.
-* 🔗 Working with **APIs, integrations, automations, and SaaS platforms**.
-* 💡 Passionate about transforming complex problems into simple, efficient, and user-centric solutions.
-* 📚 Continuously learning and keeping up with the evolution of software development and AI.
+* 💼 **Co-Founder at Inventors Company (3+ years)** — building custom software, SaaS platforms, and AI-powered solutions.
+* 💻 **Full Stack & Web:** Building modern, high-performance web applications with **React, Next.js, Vue 3, and Angular**.
+* 📱 **Mobile Development:** Crafting cross-platform mobile experiences with **Flutter** and **React Native**.
+* ⚙️ **Backend & APIs:** Designing robust services, microservices, and integrations with **Node.js, NestJS, and Python**.
+* 🤖 **AI & Automation:** Integrating **LLMs and AI solutions** with Python to create smarter applications.
+* 💡 Driven by clean architecture, user-centric product design, and continuous technical evolution.
 
 ---
 
@@ -45,18 +40,10 @@ I work across the **web, mobile, and backend ecosystems**, using modern technolo
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### **AI, Automation & Tools**
+#### **AI & Tools**
 ![Python AI](https://img.shields.io/badge/AI_%26_LLMs-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 💼 **Inventors Company**
-
-I'm a co-founder of **[Inventors Company](https://www.inventorscompany.com.br)**, a software development company focused on building custom software, web and mobile applications, SaaS platforms, automations, and AI-powered solutions.
-
-We help businesses transform ideas and operational challenges into scalable technology solutions.
 
 ---
 
