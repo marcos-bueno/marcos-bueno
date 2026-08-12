@@ -24,29 +24,31 @@ I work across the **web, mobile, and backend ecosystems**, using modern technolo
 
 ### 🛠️ **Tech Stack & Tools**
 
-**Languages**
+#### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-JavaScript • TypeScript • Python • Dart
+#### **Web & Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-**Web & Frontend**
+#### **Backend & APIs**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=postman&logoColor=white)
 
-React • Next.js • Angular • Vue 3
+#### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend**
-
-Node.js • NestJS • REST APIs • API Integrations
-
-**Mobile**
-
-Flutter • React Native
-
-**AI & Automation**
-
-Python • AI/LLM Integrations • Automation
-
-**Other**
-
-Git • GitHub • SaaS • Software Architecture • Product Development
+#### **AI, Automation & Tools**
+![Python AI](https://img.shields.io/badge/AI_%26_LLMs-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -58,6 +60,8 @@ We help businesses transform ideas and operational challenges into scalable tech
 
 ---
 
-📬 **Connect with me:**
+### 📬 **Connect with me**
 
-[LinkedIn](https://linkedin.com/in/marcos-bueno) • [Inventors Company](https://www.inventorscompany.com.br) • [Email](mailto:mabueno@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-bueno)
+[![Inventors Company](https://img.shields.io/badge/Inventors_Company-181717?style=for-the-badge&logo=firefox&logoColor=white)](https://www.inventorscompany.com.br)
+[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mabueno@proton.me)
